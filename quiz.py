@@ -1,1 +1,1 @@
-print('hasini')
+print('hasinim')
